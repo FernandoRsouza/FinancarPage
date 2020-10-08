@@ -1,0 +1,93 @@
+.navbar{
+   
+    width: 100%;
+    height: 100px;
+    cursor: pointer;
+}
+.navbar img{
+    width: 118%;
+    height: 167px;
+    margin-left: -5px;
+}
+ .storage-front img{
+
+    margin-top: 40px;
+    width: 500px;
+}
+.carousel-control-prev{
+    margin-left: 83px;
+}
+.carousel-control-next {
+    margin-right: -46px;
+}
+.maps{
+    width: 300px;
+    margin-left: 16px;
+    height: 250px;
+    margin-top: 66px;
+}
+
+.storage-front{
+    margin-left: 497px;
+    height: 422px;
+    margin-top: -122px;
+}
+.first-text{
+    margin-top: 88px;
+    margin-left: 99px;
+    font-size: 17px;
+    font-family: fantasy;
+    color: dimgray;
+}
+.second-text{
+    margin-left: 1053px;
+    width: 243px;
+    margin-top: -409px;
+    font-size: 20px;
+    font-family: sans-serif;
+    color: blue;
+}
+.thirth-text{
+    margin-left: 26px;
+    height: 26px;
+    color: chocolate;
+}
+.carousel-inner{
+   margin-left: 127px;
+    width: 600px;
+    border: none;
+    margin-top: 66px;
+    margin-left: 292px;
+
+}
+.embed-responsive{
+    width: 282px;
+    margin-left: 147px;
+}
+
+.item{
+    margin-top: 10px;
+   margin-left: 400px;
+}
+.d-block{
+    
+    width: 500px;
+    height: 500px;
+    border: none;
+    margin-top: 5px;
+}
+body{
+    background: aliceblue;
+}.banco{
+    width: 150px;
+    height: 100px;
+    margin-left: 10px;
+}
+
+.logo{
+    display: flex;
+    width: 100%;
+    height: 115px;
+    margin-left: 39px;
+    margin-top: 30px;
+}
